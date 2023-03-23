@@ -214,7 +214,7 @@ const Home: NextPage = () => {
         <div className="mt-3 flex justify-center">
           <p className="text-lg text-white">Footer title</p>
         </div>
-        <div className="my-2 flex">
+        <div className="my-2 ml-2 flex">
           <p>Footer text1, long text</p>
         </div>
         <div className="mt-10 flex items-center justify-center  ">
